@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 
-model = tf.keras.models.load_model("mobilenetv2_best.keras")
+model = tf.keras.models.load_model("model.keras")
 
 def predict(image):
     image = image.resize((224, 224))
