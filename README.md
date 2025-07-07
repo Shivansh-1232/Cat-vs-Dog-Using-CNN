@@ -7,9 +7,3 @@ This project uses a Convolutional Neural Network (CNN) in TensorFlow/Keras to cl
 - `model.keras` - Trained model file
 - `graphs` - Accuracy/loss plots
 
-
-🔗 Download Trained Model
-The trained model file (`model.keras`) is too large for GitHub.  
-You can download it from here: 
-[
-(https://drive.google.com/file/d/1Emi7SWXHULoSWztwScuWZorKUPUn2dwL/view?usp=sharing)
