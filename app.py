@@ -21,7 +21,7 @@ interface = gr.Interface(
     fn=predict,
     inputs=gr.Image(type="pil"),
     outputs=gr.HTML(),
-    title="Cat vs Dog vs Others Classifier",
+    title="Cat vs Dog Classifier",
     description="Upload an image to predict whether it's a Cat, Dog, or something else (Others)"
 )
 
